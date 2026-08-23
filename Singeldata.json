@@ -11,10 +11,4 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-     {
-        "device_id": "device456",
-        "key": "1234",
-        "expirydate": "25-07-2026",
-        "Allowoffline": true
-    }
 ]
